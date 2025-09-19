@@ -37,8 +37,7 @@
 
 ## 🚀 Projects
 - ✈️ **CNU Airline Reservation System** – Spring Boot & MySQL 기반 항공 예약 서비스
-- 🌊 **Marine Waste Risk AI** – YOLO 기반 해양 쓰레기 탐지 및 위험도 분석
-- 🛒 **Shopping Mall Web** – React + Spring Boot 학습 프로젝트  
+
 
 ---
 
