@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Huiseok Lee  
 
-<!--
-**leehuiseok/leehuiseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Backend Developer & AI Enthusiast**  
+🚀 Passionate about building reliable systems and exploring AI solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 🎓 Student at **Chungnam National University**
+- 💻 Interested in **Spring Boot, React, AI/ML, and Databases**
+- 📚 Currently learning: **Java, Spring Boot, React Query, Machine Learning**
+- 🌏 Languages: Korean (Native), English (Intermediate)
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**Database & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Huiseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehuiseok&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehuiseok&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+- ✈️ **CNU Airline Reservation System** – Spring Boot & MySQL 기반 항공 예약 서비스
+- 🌊 **Marine Waste Risk AI** – YOLO 기반 해양 쓰레기 탐지 및 위험도 분석
+- 🛒 **Shopping Mall Web** – React + Spring Boot 학습 프로젝트  
+
+---
+
+## ✨ Contact
+📫 Email: **your-email@example.com**  
+🌐 Blog: [Tistory or GitHub Pages 링크 넣기]  
+
+---
+⭐️ From [leehuiseok](https://github.com/leehuiseok)
