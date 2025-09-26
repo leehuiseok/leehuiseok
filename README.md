@@ -42,7 +42,7 @@
 ---
 
 ## ✨ Contact
-📫 Email: **your-email@example.com**  
+📫 Email: **leehuiseok020412@gmail.com**  
 🌐 Blog: [Tistory or GitHub Pages 링크 넣기]  
 
 ---
