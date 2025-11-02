@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Huiseok Lee  
 
-🌱 **Backend Developer & AI Enthusiast**  
-🚀 Passionate about building reliable systems and exploring AI solutions  
-
+🌱 **Full Stack Developer**  
 ---
 
 ## 📌 About Me
 - 🎓 Student at **Chungnam National University**
-- 💻 Interested in **Spring Boot, React, AI/ML, and Databases**
-- 📚 Currently learning: **Java, Spring Boot, React Query, Machine Learning**
+- 💻 Interested in **Node.js , React
 - 🌏 Languages: Korean (Native), English (Intermediate)
 
 ---
@@ -35,15 +32,11 @@
 
 ---
 
-## 🚀 Projects
-- ✈️ **CNU Airline Reservation System** – Spring Boot & MySQL 기반 항공 예약 서비스
-
 
 ---
 
 ## ✨ Contact
 📫 Email: **leehuiseok020412@gmail.com**  
-🌐 Blog: [Tistory or GitHub Pages 링크 넣기]  
 
 ---
 ⭐️ From [leehuiseok](https://github.com/leehuiseok)
